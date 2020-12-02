@@ -1,10 +1,9 @@
 # <img src="https://uploads-ssl.webflow.com/5ea5d3315186cf5ec60c3ee4/5edf1c94ce4c859f2b188094_logo.svg" alt="Pip.Services Logo" width="200"> <br/> Portable Abstractions and Patterns for Dart
 
 This module is a part of the [Pip.Services](http://pip.services.org) polyglot microservices toolkit.
-It provides portable abstractions and patterns that can be used to implement non-trivial business logic in applications and services.
-
-This framework's key difference is its portable implementation across a variety of different languages. 
-It currently supports Java, .NET, Python, Node.js, Dart, and Golang. The code provides a reasonably thin abstraction layer over most fundamental functions and delivers symmetric implementation that can be quickly ported between different platforms.
+It provides a set of basic patterns used in microservices or backend services.
+Also the module implemenets a reasonably thin abstraction layer over most fundamental functions across
+all languages supported by the toolkit to facilitate symmetric implementation.
 
 The module contains the following packages:
 
